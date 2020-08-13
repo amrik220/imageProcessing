@@ -10,6 +10,4 @@ This repository contains image detection and classification examples using Tenso
     4. Improving performance of nn - Part 1
     5. Improving performance of nn - Part 2
 2. Blood cell detection
-    1. Blood cell detection - Part 1
-    2. Blood cell detection - Part 2
 3. Facial keypoint identification
